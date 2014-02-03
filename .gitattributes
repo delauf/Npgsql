@@ -6,5 +6,7 @@
 *.resx text
 *.xml text
 *.txt text
+*.cmd text
+*.bat text
 
 packages/ binary
